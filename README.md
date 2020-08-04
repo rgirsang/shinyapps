@@ -1,6 +1,10 @@
 # Showcase applications made using Shiny
 
 ### Student Loan Debt Calculator
+Summarize Covid data pulled from John Hopkins University
+* https://rgirsang.shinyapps.io/covid_2/
+
+### Student Loan Debt Calculator
 
 Determine interest and months saved when additional monthly payments are made in addition to the minimum monthly payment.
 * https://rg15.shinyapps.io/student-debt-calculator/
