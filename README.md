@@ -1,6 +1,6 @@
 # Showcase applications made using Shiny
 
-### Student Loan Debt Calculator
+### Summarize US COVID data pulled from John Hopkins University
 Summarize Covid data pulled from John Hopkins University
 * https://rgirsang.shinyapps.io/covid_2/
 
